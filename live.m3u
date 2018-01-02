@@ -1,10 +1,10 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CvQCnwZ.png" group-title="INFO",* Hunter X hunter ep 77
-http://stream.animestreams.net/stream/ongoing-anime/13-12/ongoing/Hunter-%C3%97-Hunter--2011--Episode-77.mp4?token=GsFWmjFzPb-IsPtMhWdP0w&expires=1514944513
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/de4f/f/2015/201/b/8/dragon_ball_super___anime_icon_by_wasir525-d9224ld.png" group-title="INFO", Dragonball Super Episode 001
+http://stream.animestreams.net/stream/ongoing-anime/15-12/Dragon%20Ball%20Super%20(Dub)/Dragon%20Ball%20Super%20Episode%2001.mp4?token=qZurJP45xUJK_w8jk2gj_Q&expires=1514946058
 
-#EXTINF:-1,test video
-http://stream.animestreams.net/play?fileName=ongoing-anime/13-12/ongoing/Hunter-%C3%97-Hunter--2011--Episode-77.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/de4f/f/2015/201/b/8/dragon_ball_super___anime_icon_by_wasir525-d9224ld.png" group-title="INFO", Dragonball Super Episode 002
+http://stream.animestreams.net/stream/ongoing-anime/15-12/Dragon%20Ball%20Super%20(Dub)/Dragon%20Ball%20Super%20Episode%2002.mp4?token=HlkPGpNJfFAxQfCre0GkSQ&expires=1514946180
 
 #EXTINF:-1,Dragonball Super episode 1
 http://stream.animestreams.net/stream/ongoing-anime/15-12/Dragon%20Ball%20Super%20English%20Subbed/[DeadFish]%20Dragon%20Ball%20Super%20-%2001%20[720p][AAC].mp4?token=3bZPUm6dwxKVnV_M59_jEw&expires=1514943947   
