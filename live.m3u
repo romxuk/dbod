@@ -1,5 +1,5 @@
 #EXTM3U 
-http://esiptv.tn:7500/live/25025/25025/1122.ts
+
 #EXTINF:-1,OSN-YAHALA-SHABAB
 http://esiptv.tn:7500/live/25025/25025/1121.ts
 #EXTINF:-1,OSN-Yahala-HD
